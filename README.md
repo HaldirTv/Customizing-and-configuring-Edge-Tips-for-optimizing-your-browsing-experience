@@ -36,7 +36,7 @@ reg delete HKLM\SOFTWARE\Policies\Microsoft\Edge /v HubsSidebarEnabled /f.
 <h2>Глава 2: Настройка раcширений и флагов браузера</h2>
 <p>В этой главе описываются различные способы настройки расширений браузера и флагов, чтобы обеспечить наилучшую производительность и опыт использования для пользователей.</p>
 
-`Флаги для браузера:`
+<h2>Флаги для браузера:</h2>
 <p>➜ Smooth scrolling</p>
 <p>➜ Experimental QUIC protocol</p>
 <p>➜ GPU rasterization</p>
@@ -50,10 +50,8 @@ reg delete HKLM\SOFTWARE\Policies\Microsoft\Edge /v HubsSidebarEnabled /f.
 <p>➜ Enable Windows 11 Acrylic effect in menus</p>
 <p>➜ Windows Fluent scrollbars</p>
 
-<p> </p>
-<p> </p>
 
-`Расширенияя для браузера:`
+<h2>Расширенияя для браузера:</h2>
 <p>uBlock Origin - Наконец-то, быстрый и эффективный блокировщик для браузеров </p>
 <p>ClearURLs - Удаление элементов слежения из URL-адресов. </p>
 <p>DuckDuckGo Privacy Essentials - Максимум конфиденциальности, минимум усилий </p>
@@ -63,8 +61,7 @@ reg delete HKLM\SOFTWARE\Policies\Microsoft\Edge /v HubsSidebarEnabled /f.
 <p>Buster: Captcha Solver for Humans - Больше вам не нужно проходить капчу, расширение всё сделает за вас </p>
 <p>SponsorBlock - Пропускайте спонсорские вставки, просьбы подписаться и другое в видео на YouTube. </p>
 
-`Готовые конфиги для расширений`
-
+<h2>Готовые конфиги для расширений</h2>
 <p>В архиве находятся мои персональные настройки для трёх расширений.</p> 
 
 `uBlock Origin:`
@@ -76,13 +73,6 @@ reg delete HKLM\SOFTWARE\Policies\Microsoft\Edge /v HubsSidebarEnabled /f.
 <p>• ПКМ по значку расширения > Параметры расширения;</p>
 <p>• Во вкладке "Бэкап/Восстановление" кликаем на "Загрузить из файла";</p>
 <p>• Применяем файл "SponsorBlockConfig.json".</p>
-
-`Audio Channel:`
-<p>• Нажать на значок расширения;</p>
-<p>• Нажать на "Limiter" и кликнуть на "Advanced";</p>
-<p>• Выставить значения с картинки.</p>
-
-
 
 
 <h2>Глава 3: Обеспечение безопасности и приватности пользователей</h2>
